@@ -121,4 +121,3 @@ client2.on('message', message => {
 
 client.login(process.env.TOKEN);// لا تغير فيها شيء
 client2.login(process.env.TOKEN2);// لا تغير فيها شيء
-"NTE2MzQ5MTYxMjgxNjgzNDYw.DtyYhQ.NkRqqdSD84WH8G2-qSP86_pBB5E"1
